@@ -54,7 +54,7 @@ const Footer = () => {
                             </div>
                             <div className="row join-now">
                                 <div className="col-lg-4 offset-lg-8 col-12 pb-5 text-center">
-                                    <a href="#" className="join-now-link">
+                                    <a href="#contact-us" className="join-now-link">
                                         <p id="join-now"><strong>Join now</strong></p>
                                     </a>
                                 </div>
