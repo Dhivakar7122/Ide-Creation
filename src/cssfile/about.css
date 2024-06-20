@@ -1,10 +1,10 @@
 .abt{
     background-image: url('../img/background/aboutback.jpg');
-    background-size: cover; /* Ensures the background image covers the entire container */
-    background-position: center; /* Centers the background image */
+    background-size: cover; 
+    background-position: center;
     background-repeat: no-repeat;
     padding: 20px 0;
-     /* Adjust padding as needed */
+    
 }
 #learn-more {
     text-decoration: none;
@@ -18,7 +18,7 @@
   }
   
   .content-text {
-    /* margin-top: 35px; */
+    
     font-size: large;
     text-align: justify;
     color: white;

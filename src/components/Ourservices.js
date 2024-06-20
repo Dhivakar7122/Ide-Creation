@@ -1,5 +1,5 @@
 import React from 'react';
-import '../cssfile/ourservice.css'; // Adjust the path based on your file structure
+import '../cssfile/ourservice.css';
 import gameDevImg from '../img/gamecontrol.jpg';
 import generativeAIImg from '../img/fingerprint.jpg';
 import modelingImg from '../img/modeling.png';

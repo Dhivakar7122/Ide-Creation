@@ -5,8 +5,8 @@ import '../cssfile/nav.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebook, faInstagram, faLinkedin, faTwitter } from '@fortawesome/free-brands-svg-icons';
 import IDA from '../img/IDA.png';
-import ContactForm from './Contactform'; // Adjust the import path based on your actual file structure
-import CareerForm from './Career'; // Adjust the import path based on your actual file structure
+import ContactForm from './Contactform';
+import CareerForm from './Career';
 
 function NavbarComponent() {
     const [showContactForm, setShowContactForm] = useState(false);

@@ -1,6 +1,6 @@
 
 import React from 'react';
-import '../cssfile/about.css'; // Adjust the path based on your file structure
+import '../cssfile/about.css';
 import vector from '../img/about1.png'
 
 export default function About() {

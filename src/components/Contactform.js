@@ -21,7 +21,7 @@ const ContactForm = ({ show, handleClose }) => {
             if (response.status === 201) {
                 alert('Contact details submitted successfully');
                 setFormData({ name: '', phoneNumber: '', email: '', description: '' });
-                handleClose(); // Close modal on successful submission
+                handleClose();
             } else {
                 throw new Error('Failed to submit contact details');
             }

@@ -1,55 +1,55 @@
-/* Background for header */
+
 .hcol {
     background-image: url('../img/background/header1.jpg');
-    background-size: cover; /* Ensures the background image covers the entire container */
-    background-position: center; /* Centers the background image */
+    background-size: cover; 
+    background-position: center; 
     background-repeat: no-repeat;
-    padding: 80px 0; /* Adjust padding as needed */
+    padding: 80px 0;
 }
 
-/* Header text style */
+
 .heabtn{
     background-image: url('../img/background/3d-render-low-poly-plexus-design-network-communications.jpg');
-    background-size: cover; /* Ensures the background image covers the entire container */
-    background-position: center; /* Centers the background image */
+    background-size: cover;
+    background-position: center; 
     background-repeat: no-repeat;
-    padding: 80px 0; /* Adjust padding as needed */
+    padding: 80px 0; 
    border-radius: 10px;
 }
 .header-text {
     color: #fafafa;
-    font-weight: bold; /* Use 'bold' instead of '1000' for better browser compatibility */
+    font-weight: bold; 
     text-align: center;
-    font-size: 2.5rem; /* Adjust font size as needed */
-    margin-bottom: 20px; /* Adds space below the header text */
+    font-size: 2.5rem;
+    margin-bottom: 20px; 
 }
 
-/* Explore link style */
+
 #explore {
     text-decoration: none;
     background-color: #3e1c67;
     color: white;
-    padding: 10px 20px; /* Adjust padding as needed */
+    padding: 10px 20px; 
     border-radius: 6px;
-    font-size: 1rem; /* Adjust font size as needed */
-    display: inline-block; /* Ensures the link behaves like a block element */
-    transition: background-color 0.3s ease; /* Smooth transition for background color change */
+    font-size: 1rem; 
+    display: inline-block; 
+    transition: background-color 0.3s ease; 
 }
 
 #explore:hover {
-    background-color: #5a2a93; /* Darker shade of purple on hover */
+    background-color: #5a2a93;
 }
 
-/* Image container styles */
+
 .img-cont {
     flex-grow: 0;
     flex-shrink: 0;
 }
 
-/* Header image style */
+
 .header-img-1 {
     border-radius: 20px;
-    width: 100%; /* Ensures the image fills its container */
-    display: block; /* Removes any extra spacing */
-    margin-bottom: 20px; /* Adds space below the image */
+    width: 100%; 
+    display: block;
+    margin-bottom: 20px; 
 }

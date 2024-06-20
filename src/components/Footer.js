@@ -1,7 +1,7 @@
 // Footer.jsx
 
 import React from 'react';
-import '../cssfile/footer.css'; 
+import '../cssfile/footer.css';
 import Email from '../img/email.png'
 import Insta from '../img/instagram.png'
 import Wb from '../img/whatsapp.png'
@@ -43,12 +43,12 @@ const Footer = () => {
                                 </div>
                                 <div className="col-lg-4">
                                     <a href="https://www.instagram.com/ida_tech_24?igsh=MTU5eTVuMHl1ZHZn&utm_source=qr" target="_blank">
-                                    <img src={Insta} width="50px" alt="" /></a>
+                                        <img src={Insta} width="50px" alt="" /></a>
                                     <p className="pt-2 text-center"><small>Insta Profile</small></p>
                                 </div>
                                 <div className="col-lg-4">
                                     <a href="https://wa.link/oo79oh" target="_blank">
-                                    <img src={Wb} width="50px" alt="" /></a>
+                                        <img src={Wb} width="50px" alt="" /></a>
                                     <p className="pt-2 text-center"><small>Whatsapp</small></p>
                                 </div>
                             </div>

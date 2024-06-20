@@ -1,4 +1,4 @@
-/* projects.css */
+
 
 .project{
     background-image: url('../img/background/projectback.png');
@@ -16,7 +16,7 @@
     height: 270px;
     border-radius: 20px;
     transition: 350ms;
-    overflow: hidden; /* Ensure images stay within rounded corners */
+    overflow: hidden;
 }
 
 .project-box:hover {
@@ -43,6 +43,4 @@
     bottom: 7px;
 }
 
-/* .hidden-1 {
-    display: none;
-} */
+

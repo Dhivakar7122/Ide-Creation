@@ -1,7 +1,7 @@
 // ProjectsSection.jsx
 
 import React from 'react';
-import '../cssfile/project.css'; 
+import '../cssfile/project.css';
 import Pro1 from '../img/pro1.jpg'
 import Pro2 from '../img/pro2.jpg'
 import Pro3 from '../img/pro3.jpeg'
