@@ -1,0 +1,48 @@
+/* projects.css */
+
+.project{
+    background-image: url('../img/background/projectback.png');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    padding: 40px 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px); 
+}
+.project-box {
+    border: solid black 1px;
+    background-color: white;
+    width: 270px;
+    height: 270px;
+    border-radius: 20px;
+    transition: 350ms;
+    overflow: hidden; /* Ensure images stay within rounded corners */
+}
+
+.project-box:hover {
+    transform: scale(1.1);
+}
+
+.project-box img {
+    width: 100%;
+    /* height: auto; */
+    border-radius: 20px;
+}
+
+.project-box a {
+    text-decoration: none;
+}
+
+.project-learn-more {
+    display: inline;
+    background-color: #3e1c67;
+    color: rgb(10, 10, 10);
+    padding: 0 7px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 7px;
+}
+
+/* .hidden-1 {
+    display: none;
+} */

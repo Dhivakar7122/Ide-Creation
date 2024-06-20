@@ -1,0 +1,79 @@
+/* .navbar-shadow {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-toggler {
+  border: 0;
+}
+
+.navbar-brand img {
+  max-width: 100%;
+  height: auto;
+}
+
+.offcanvas-body {
+  padding: 10px;
+}
+
+.offcanvas-body .navbar-nav .nav-item {
+  margin-bottom: 10px;
+}
+
+.offcanvas-body .navbar-nav .nav-link {
+  color: #000;
+}
+
+.offcanvas-body .navbar-nav .nav-link:hover {
+  color: #007bff;
+}
+
+.circle-icon {
+  border-radius: 50%;
+  background-color: #fff;
+  padding: 5px;
+}
+
+.contact-us {
+  font-weight: bold;
+} */
+
+.navbar-shadow {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  background-color: white;
+  
+}
+
+.navbar div a {
+  color: #3e1c67;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.nav-item {
+  padding-right: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ 
+}
+
+#contactus {
+  margin-top: 5px;
+  color: white;
+  border: solid #3e1c67;
+  background-color: #3e1c67;
+  padding: 0 8px;
+  border-radius: 8px;
+}
+
+.navbar a:hover {
+  font-size: 13px;
+}
+
+/* sidebar */
+
+.sidebar {
+  background-color: #f4cae5;
+  backdrop-filter: blur(10px);
+}

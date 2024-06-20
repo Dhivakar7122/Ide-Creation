@@ -1,0 +1,36 @@
+.footer-icons a {
+    /* padding: 5px;
+    color: rgb(216, 23, 23);
+    background-color: aliceblue; */
+    color: black;
+}
+
+.footer-enquiry a {
+    color: white;
+    font-size: 25px;
+}
+
+#join-now {
+    background-color: white;
+    color: #282828;
+    display: inline;
+    padding: 0 10px;
+    border-radius: 5px;
+}
+
+.join-now-link {
+    text-decoration: none;
+}
+
+.join-now {
+    padding-top: 80px;
+}
+
+.footer i:hover {
+    font-size: 30px;
+}
+
+.footer{
+    background-color: darkgray;
+    margin: 0;
+}
